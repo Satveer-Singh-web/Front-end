@@ -1,0 +1,29 @@
+.calc{
+    height: 400px;
+    width: 300px;
+    border:  black 1px;
+    border-radius: 20px;
+    margin: 100px 500px;
+    background-color: black;
+    box-shadow: 2px 2px 4px;
+}
+.result{
+    width: 100%;
+    margin-top: 40px;
+    border: none;
+    border-radius: 10px;
+    height: 60px;
+}
+.button{
+    width: 50px;
+    height: 40px;
+    margin: 0px 7px;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.button:hover{
+    background-color: rgba(110, 101, 101, 0.553);
+    color: white;
+}
